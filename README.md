@@ -10,7 +10,7 @@ and `xattr -dr com.apple.quarantine "TZMP-MacOS-arm64.app"
 MacOS Intel:
 
 `chmod +x "TZMP-MacOS-x64.app/Contents/MacOS/TZMP"`
-and `xattr -dr com.apple.quarantine "TZMP-MacOS-x64.app"
+and `xattr -dr com.apple.quarantine "TZMP-MacOS-x64.app"`
 
 Linux:
 
