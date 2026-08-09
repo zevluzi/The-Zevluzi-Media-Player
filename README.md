@@ -1,6 +1,24 @@
 # The-Zevluzi-Media-Player
 ## This is a media player. I tried making it like VLC. I vibe coded it with ChatGPT
-[source code (it was to big to host on GitHub and requires the Mega app on mobile).](https://mega.nz/file/KzpUUBRB#JDeYx1TH7EYtdTRrN-MWo__sOzzVp2uPYWdqlRNcb1A)
+You have to chmod it
+
+MacOS silicon:
+
+`chmod +x "TZMP-MacOS-arm64.app/Contents/MacOS/TZMP"`
+
+MacOS Intel:
+
+`chmod +x "TZMP-MacOS-x64.app/Contents/MacOS/TZMP"`
+
+Linux:
+
+`chmod +x TZMP-1.0.0.AppImage`
+
+Windows:
+
+none :)
+
+
 
 
 
