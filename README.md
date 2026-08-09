@@ -5,7 +5,7 @@ You have to chmod it
 MacOS silicon:
 
 `chmod +x "TZMP-MacOS-arm64.app/Contents/MacOS/TZMP"`
-and `xattr -dr com.apple.quarantine "TZMP-MacOS-arm64.app"
+and `xattr -dr com.apple.quarantine "TZMP-MacOS-arm64.app"`
 
 MacOS Intel:
 
